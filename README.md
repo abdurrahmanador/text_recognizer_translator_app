@@ -35,7 +35,7 @@ dependencies:
 
 1. Clone the repository
 ```bash
-[git clone [https://github.com/abdurrahmanador/text_recognizer_translator_app]]
+git clone https://github.com/abdurrahmanador/text_recognizer_translator_app
 ```
 
 2. Navigate to project directory and install dependencies
